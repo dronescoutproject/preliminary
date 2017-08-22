@@ -9,7 +9,7 @@ Using a digitized version of the Congressional Record (accessed via [GPO.gov](ht
 #### General findings
 We found that since 2007, there have been only 482 restrictive mentions of drones in the Congressional Record. (For reference, it is estimated that there are 28,890 [mentions](https://www.congress.gov/search?searchResultViewType=expanded&q={%22source%22:%22congrecord%22,%22search%22:%22defense%22,%22congress%22:[%22110%22,%22111%22,%22112%22,%22113%22,%22114%22,%22115%22]}) of `defense` during the same time frame). We found that there is little correlation between the magnitude of drone strikes and the number of mentions of drones in Congress.
 
-![Figure 1. The magnitude of drone strikes versus the number of restrictive drone mentions in Congress. Strike data from the Bureau of Investigative Journalism.](figure1.jpg)
+![Figure 1. The magnitude of drone strikes versus the number of restrictive drone mentions in Congress. Strike data from the Bureau of Investigative Journalism.](figure1.png)
 _Figure 1. The magnitude of drone strikes versus the number of restrictive drone mentions in Congress. Strike data from the Bureau of Investigative Journalism. Due to the difficulty in distinguishing between an air strike and a drone strike, it is possible that some air strikes are included in the shown totals._
 
 #### Corroboration
