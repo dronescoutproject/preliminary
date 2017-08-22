@@ -13,7 +13,7 @@ We found that since 2007, there have been only 482 restrictive mentions of drone
 _Figure 1. The magnitude of drone strikes versus the number of restrictive drone mentions in Congress. Strike data from the Bureau of Investigative Journalism. Due to the difficulty in distinguishing between an air strike and a drone strike, it is possible that some air strikes are included in the shown totals._
 
 #### Corroboration
-The number of restrictive mentions of drones we found in the Congressional Record is supported by a [search](https://www.congress.gov/search?q={%22source%22:%22congrecord%22,%22search%22:%22drones%22}&searchResultViewType=expanded) for `drone` and `uav` on the Congress.gov website, which yields 723 results. When considering that many of these statements are about domestic drones, are pro-drone, or simply mention `drone` in a separate context.
+The number of restrictive mentions of drones we found in the Congressional Record is supported by a [search](https://www.congress.gov/search?q={%22source%22:%22congrecord%22,%22search%22:%22drones%22}&searchResultViewType=expanded) for `drone` and `uav` on the Congress.gov website, which yields 723 results. When considering that many of these statements are about domestic drones, are pro-drone, or simply mention `drone` in a separate context, our count of statements is to be expected.
 
 ## Our Process
 Our dataset of legislative engagement on drones was based on data from the Congressional Record that was then winnowed in the following manner. 
