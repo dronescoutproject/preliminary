@@ -170,7 +170,7 @@ _Please note that at this stage in the research, not all of the below classifica
 
 -   Transparency is of the utmost importance in academic research, especially when dealing with topics as politically salient as drones and drone warfare. As such, a justification will need to be provided for the classifications of each record. These may be brief---only a few words are necessary for each sub-classification (relevance, sentiment, category, and categorical sentiment)---however they must be honest and correct.
 
--   Please indicate any non-obvious judgement calls or difficult decisions in the justification field by including "[NON-OBVIOUS]" (with brackets) at the beginning of your justification.
+-   We indicate any non-obvious judgement calls or difficult decisions in the justification field by including "[NON-OBVIOUS]" (with brackets) at the beginning of our justification.
 
 ## Definitions
 **Statement** --- a statement, for the purposes of this research, is a piece of text (typically around 100 words) separated by a non-wrapping line break in the digitized version of the Congressional Record. Please refer to section 3 of our process section for a detailed explanation of why we chose a paragraph as the smallest unit of legislative engagement.
