@@ -122,29 +122,27 @@ _Please note that at this stage in the research, not all of the below classifica
 
 -   Possible categories:
 
--       FOREIGNPOLICY --- how drones affect the foreign policy of the United States (e.g., counterproductive because strikes antagonize the local populations and increase terrorism vs effective counterterrorism measure, etc).
+-   FOREIGNPOLICY --- how drones affect the foreign policy of the United States (e.g., counterproductive because strikes antagonize the local populations and increase terrorism vs effective counterterrorism measure, etc).
 
--       PTSD --- statements about how drones affect post-traumatic stress disorder (PTSD) at large in the armed forces or in their district
+-   PTSD --- statements about how drones affect post-traumatic stress disorder (PTSD) at large in the armed forces or in their district
 
--       JOBS --- statements about how drones affect jobs in the United States (bases in the district, contractors, etc)
+-   JOBS --- statements about how drones affect jobs in the United States (bases in the district, contractors, etc)
 
--       HUMANITARIAN --- statements which touch on the humanitarian element of drones (civilian casualties as a problem in itself?)
+-   HUMANITARIAN --- statements which touch on the humanitarian element of drones (civilian casualties as a problem in itself?)
 
--       FINANCE --- statements about the effect of drones on the finances of the U.S. government
+-   FINANCE --- statements about the effect of drones on the finances of the U.S. government
 
--       TECHNOLOGY --- statements about lethal-drone technology (NOT surveillance drones)
+-   TECHNOLOGY --- statements about lethal-drone technology (NOT surveillance drones)
 
--       INTERNATIONAL-LEGALITY --- statements about the legality of drone strikes in international law
+-   INTERNATIONAL-LEGALITY --- statements about the legality of drone strikes in international law
 
--       DOMESTIC-LEGALITY --- statements about the legality of drone strikes in domestic law
+-   DOMESTIC-LEGALITY --- statements about the legality of drone strikes in domestic law
 
--       REFERENCE --- for statements which only reference the drone program (or a particular drone strike) and do not delve into any of the aforementioned categories.
+-   REFERENCE --- for statements which only reference the drone program (or a particular drone strike) and do not delve into any of the aforementioned categories.
 
--       DISCLOSURE --- for statements which reference the disclosure of information related to the U.S. drone program. A 'PRO' categorical sentiment in the category of 'DISCLOSURE' would mean that the statement called for greater disclosure of information about the U.S. drone program (and would likely be accompanied by an 'ANTI' general sentiment classification), while a statement which was against the disclosure (unauthorized or otherwise) of information about the drone program would have an 'ANTI' categorical sentiment (and likely a 'PRO' general sentiment).
+-   DISCLOSURE --- for statements which reference the disclosure of information related to the U.S. drone program. A 'PRO' categorical sentiment in the category of 'DISCLOSURE' would mean that the statement called for greater disclosure of information about the U.S. drone program (and would likely be accompanied by an 'ANTI' general sentiment classification), while a statement which was against the disclosure (unauthorized or otherwise) of information about the drone program would have an 'ANTI' categorical sentiment (and likely a 'PRO' general sentiment).
 
--   If a statement potentially fits into two or more of these categories, you may list them in the form of a comma-separated list (without spaces). For example: LEGALITY,HUMANITARIAN.
-
--   If you find that additional categories arise, please
+-   If a statement potentially fits into two or more of these categories, they may be listed in the form of a comma-separated list (without spaces). For example: LEGALITY,HUMANITARIAN.
 
 #### Categorical Sentiment
 
