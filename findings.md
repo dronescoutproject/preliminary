@@ -32,7 +32,7 @@ At this point, we had downloaded and group the entire Congressional Record into 
 
 - home-states of the speakers
 
-To collect this data, we built another program which then 'annotated' (processed) the congressional record.
+To collect this data, we built another program which then 'annotated' (processed) the Congressional Record.
 
 ### 2. Processing and parsing the data from the Congressional Record
 
@@ -72,7 +72,7 @@ This program, which is available at <https://github.com/milesmcc/combine-cr/blo
 
 Searching the Congressional Record for mentions of foreign drones (and automatically filtering out mentions of domestic drones) is perhaps the most immediately obvious and important tasks required to create our dataset. Similarly important, however, is that the code created to search the Congressional Record is generalizable, so that we can perform additional searches---and compile additional datasets---quickly and easily.
 
-We designed a program that provides an easy-to-design and powerful platform to search the congressional record. A single search takes about ten minutes to perform (at the rate of about 10.5k paragraphs per second), and automatically exports a spreadsheet like the one attached. The code is open-source, and available at <https://github.com/milesmcc/combine-cr/blob/master/search.py>.
+We designed a program that provides an easy-to-design and powerful platform to search the Congressional Record. A single search takes about ten minutes to perform (at the rate of about 10.5k paragraphs per second), and automatically exports a spreadsheet like the one attached. The code is open-source, and available at <https://github.com/milesmcc/combine-cr/blob/master/search.py>.
 
 We chose to match paragraphs as the smallest unit of "legislative engagement" (i.e. what shows up as a *mention/statement* in our spreadsheet) as opposed to, say, words, sentences, or entire documents, because paragraphs strike a balance between context and concentration. Searching *paragraphs* for mentions of drones (and filtration of domestic drones) provides the following benefits:
 
